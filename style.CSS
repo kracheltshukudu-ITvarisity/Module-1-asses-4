@@ -1,0 +1,20 @@
+th{
+	font-weight: 800;
+	background-color:#2695A6;
+	color: #ffffff;
+
+}
+
+p{
+	font-weight: 800;
+	text-decoration: line-through;
+}
+
+table{
+	font-family: Helvetica, Sans-serif;
+	border-collapse: Collapse;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #2695A6;
+	text-decoration: line-through;
+}
